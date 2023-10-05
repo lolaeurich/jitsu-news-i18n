@@ -15,4 +15,5 @@ Tecnologias, Ferramentas e Libs Utilizadas:
       <li>PostCSS</li>
         <li>Node</li>
           <li>Figma</li>
+          <li>React i18n</li>
 </ul>
