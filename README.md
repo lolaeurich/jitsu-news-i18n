@@ -1,8 +1,18 @@
-# React + Vite
+![Badge Finalizado](http://img.shields.io/static/v1?label=STATUS&message=INPROGRESS&color=red&style=for-the-badge)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<h2 align="center">Jitsu News</h2>
+<br/>
+<p align="center">Blog com notícias sobre o universo do Jiu Jitsu. Mas, afinal, este é só mais um blog? Não. A ideia central aqui é utilizar React i18n, gerando um projeto de internacionalização capaz de traduzir textos estáticos e dinâmicos. </p>
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+LIVE: <a href="">Vercel</a> 
+
+Tecnologias, Ferramentas e Libs Utilizadas:
+<ul>
+  <li>React</li>
+    <li>Tailwind</li>
+      <li>PostCSS</li>
+        <li>Node</li>
+          <li>Figma</li>
+</ul>
