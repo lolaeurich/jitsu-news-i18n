@@ -16,4 +16,6 @@ Tecnologias, Ferramentas e Libs Utilizadas:
         <li>Node</li>
           <li>Figma</li>
           <li>React i18n</li>
+          <li>Axios</li>
+          <li>Strapi</li>
 </ul>

@@ -32,7 +32,7 @@ const [activeIndex, setActiveIndex] = useState(0)
   return (
     <div className="flex flex-col justify-center mt-8 px-[70] md:px-[150px]">
       <img src="/assets/banner.png" className="rounded-2xl"></img>
-      <div className="bg-white shadow-lg p-4 rounded-lg mt-[-20px] mx-[25%] flex items-center">
+      <div className="bg-white shadow-lg p-4 rounded-lg mt-[-20px] mx-[25%] flex items-center border-2 border-inherit">
         <IoSearchOutline className="text-[20px] text-gray-400"/>
         <input type="text" placeholder="Buscar" className="outline-none ml-2"></input>
       </div>
