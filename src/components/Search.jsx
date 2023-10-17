@@ -10,19 +10,11 @@ function Search() {
     },
     {
         id:2,
-        name:'Cat 1',
+        name:'Atletas',
     },
     {
         id:3,
-        name:'Cat 2',
-    },
-    {
-        id:4,
-        name:'Cat 3',
-    },
-    {
-        id:5,
-        name:'Cat 4',
+        name:'Social',
     },
 ]
 
