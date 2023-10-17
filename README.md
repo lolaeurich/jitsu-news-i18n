@@ -6,7 +6,7 @@
 
 
 
-LIVE: <a href="">Vercel</a> 
+LIVE: <a href="https://jitsu-news-i18n.vercel.app/">Vercel</a> 
 
 Tecnologias, Ferramentas e Libs Utilizadas:
 <ul>
