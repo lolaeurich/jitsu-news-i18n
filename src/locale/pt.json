@@ -1,0 +1,13 @@
+{
+    "translation": {
+        "en": "EN",
+        "header": "Cabeçalho",
+        "footer": "Rodape {{year}}",
+        "about": "Sobre Nós",
+        "contact": "Contato",
+        "subscribe": "Inscreva-se",
+        "search": "Buscar",
+        "all": "Tudo",
+        "athletes": "Atletas"
+    }
+}

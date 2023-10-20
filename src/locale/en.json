@@ -1,0 +1,13 @@
+{
+    "translation": {
+        "en": "PT",
+        "header": "Our Header",
+        "footer": "Footer {{year}}",
+        "about": "About Us",
+        "contact": "Contact",
+        "subscribe": "Subscribe",
+        "search": "Search",
+        "all": "All",
+        "athletes": "Athletes"
+    }
+}
