@@ -1,10 +1,11 @@
 import React from 'react'
 import { IoLogoYoutube } from "react-icons/io5"
+import { Link } from "react-router-dom"
 
 function Header({about, contact, subscribe}) {
   return (
     <div className="flex justify-between items-center mx-12 my-4">
-        <img src="/assets/logo2.gif" alt="" className="w-[250px]"></img>
+        <Link to='/'> <img src="/assets/logo2.gif" alt="" className="w-[250px]"></img></Link>
         <ul className="hidden md:flex gap-4 md:gap-14">
             <li className="hover:font-bold hover:text-red-500 cursor-pointer text-lg">Home</li>
             <li className="hover:font-bold hover:text-red-500 cursor-pointer text-lg">{about}</li>
@@ -16,3 +17,4 @@ function Header({about, contact, subscribe}) {
 }
 
 export default Header
+

@@ -5,15 +5,10 @@ import Markdown from "react-markdown"
 const Content = ({blogs}) => {
     const {id} = useParams()
 
-    let blog={}
-    if(blog){
-        let arr = blogs.data.filter(blog=> blog.id == id)
-        blog=arr[0]
-    }else{
-        blog={}
-    }
+    let blog = blogs.filter(b => b.id === Number(id))[0]
 
-    console.log("Blog Object")
+    console.log("id", typeof id)
+    console.log("Blog Object", blog)
     console.log(blogs)
 
     /*const blogs=[{

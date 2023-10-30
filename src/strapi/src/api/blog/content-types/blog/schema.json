@@ -95,6 +95,14 @@
           "localized": true
         }
       }
+    },
+    "loc": {
+      "pluginOptions": {
+        "i18n": {
+          "localized": true
+        }
+      },
+      "type": "string"
     }
   }
 }
